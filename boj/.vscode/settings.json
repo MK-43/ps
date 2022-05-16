@@ -1,0 +1,33 @@
+{
+  "files.associations": {
+    "SL-*": "powershell",
+    "FL-*": "powershell",
+    "makefile.*": "makefile",
+    "netconf.trace.log*": "xml",
+    "libncc.trace.log*": "xml",
+    "nrnm.trace.log*": "json",
+    "*.log.[1-9]": "log",
+    "*.log[1-9]": "log",
+    "*.log[1-9].[1-9]": "log",
+    "netconf.log[1-9]": "log",
+    "*confd.log[1-9]": "log",
+    "xlocale": "cpp",
+    "swmconfdrpc.h": "c",
+    "swmconfdutil.h": "c",
+    "xstring": "cpp",
+    "xutility": "cpp",
+    "string": "cpp",
+    "deque": "cpp",
+    "initializer_list": "cpp",
+    "list": "cpp",
+    "vector": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "utility": "cpp",
+    "istream": "cpp",
+    "memory": "cpp",
+    "type_traits": "cpp",
+    "xlocnum": "cpp",
+    "iostream": "cpp"
+  }
+}
